@@ -143,10 +143,4 @@ The domain name was typed correctly, but the join failed. The cause was networki
 
 ![Jane's Account tab showing logon name jsmith12](Screenshot%202026-10-14%20222544.png)
 
-**whoami on client01s:** signed in as `lab\jsmith12`
 
-![whoami as lab\jsmith12](Screenshot%202026-10-14%20223639.png)
-
-**whoami on client01s:** signed in as `lab\ajones`
-
-![whoami as lab\ajones](Screenshot%202026-10-14%20223629.png)
