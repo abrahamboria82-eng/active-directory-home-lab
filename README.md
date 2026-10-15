@@ -117,17 +117,36 @@ The domain name was typed correctly, but the join failed. The cause was networki
 
 ## Screenshots
 
-![Sales OU: Jane A Smith + SG-Sales](screenshots/Screenshot%202026-10-14%20221010.png)
+### Organizational Units and users
 
-![IT OU: Alex Jones + SG-IT](screenshots/Screenshot%202026-10-14%20223712.png)
+**Sales OU:** user Jane A Smith and the SG-Sales security group
 
-![SG-Sales members](screenshots/Screenshot%202026-10-14%20224017.png)
+![Sales OU with Jane A Smith and SG-Sales](Screenshot%202026-10-14%20221010.png)
 
-![SG-IT members](screenshots/Screenshot%202026-10-14%20223911.png)
+**IT OU:** user Alex Jones and the SG-IT security group
 
-![Jane's Account tab (jsmith12)](screenshots/Screenshot%202026-10-14%20222544.png)
+![IT OU with Alex Jones and SG-IT](Screenshot%202026-10-14%20223712.png)
 
-![whoami as jsmith12](screenshots/Screenshot%202026-10-14%20223639.png)
+### Group membership
 
-![whoami as ajones](screenshots/REPLACE-WITH-AJONES-FILENAME.png)
+**SG-Sales members:** Jane A Smith
 
+![SG-Sales members](Screenshot%202026-10-14%20224017.png)
+
+**SG-IT members:** Alex Jones
+
+![SG-IT members](Screenshot%202026-10-14%20223911.png)
+
+### Domain sign-ins
+
+**Account tab:** Jane's real logon name is `jsmith12`
+
+![Jane's Account tab showing logon name jsmith12](Screenshot%202026-10-14%20222544.png)
+
+**whoami on client01s:** signed in as `lab\jsmith12`
+
+![whoami as lab\jsmith12](Screenshot%202026-10-14%20223639.png)
+
+**whoami on client01s:** signed in as `lab\ajones`
+
+![whoami as lab\ajones](Screenshot%202026-10-14%20223629.png)
