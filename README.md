@@ -4,7 +4,13 @@
 
 A hands-on Active Directory lab built to practice the day-to-day work of an IT help desk: networking, DNS, domain joins, user and group management, and troubleshooting. I documented every problem I hit and how I fixed it.
 
-**Demo video:** _add link here after uploading (YouTube unlisted works well)_
+
+## 🎥 Project Demonstration
+
+**Watch my Active Directory Home Lab walkthrough:** See the Windows Server configuration, DNS verification, organizational units, user accounts, and security group management in action.
+
+[▶ Watch the Full Video](https://youtu.be/2D9tg_lLVrc)
+
 
 ## Lab Overview
 
