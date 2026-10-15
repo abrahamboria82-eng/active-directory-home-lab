@@ -130,11 +130,4 @@ The domain name was typed correctly, but the join failed. The cause was networki
 ![whoami as jsmith12](screenshots/Screenshot%202026-10-14%20223639.png)
 
 ![whoami as ajones](screenshots/REPLACE-WITH-AJONES-FILENAME.png)
-## Next Steps
 
-- [ ] Add Group Policy (drive mapping, password policy)
-- [ ] Create a shared folder with group-based permissions
-- [ ] Set up DHCP on the DC
-- [ ] Add a NAT adapter for internet access
-- [ ] Practice account unlocks and moving users between OUs
-- [ ] Add a reverse lookup zone in DNS
