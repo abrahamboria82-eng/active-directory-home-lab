@@ -114,18 +114,22 @@ The domain name was typed correctly, but the join failed. The cause was networki
 - For "I can't log in" issues, check the exact logon name in the user's Account tab before resetting anything.
 - In Active Directory Users and Computers, OUs show in the left tree and groups show in the right pane, so the icon and Type column tell you which one you made.
 
+
 ## Screenshots
 
-Rename your screenshot files to match these names and upload them to a `screenshots/` folder in the repo.
+![Sales OU: Jane A Smith + SG-Sales](screenshots/Screenshot%202026-10-14%20221010.png)
 
-| | |
-|---|---|
-| ![ipconfig on DC01](screenshots/01-ipconfig-dc.png) | ![nslookup on DC01](screenshots/02-nslookup-dc.png) |
-| ![Ping from client](screenshots/03-ping-client.png) | ![DNS Manager records](screenshots/04-dns-manager.png) |
-| ![Sales OU](screenshots/05-sales-ou.png) | ![IT OU](screenshots/06-it-ou.png) |
-| ![SG-Sales members](screenshots/07-sg-sales-members.png) | ![SG-IT members](screenshots/08-sg-it-members.png) |
-| ![whoami jsmith12](screenshots/09-whoami-jsmith12.png) | ![whoami ajones](screenshots/10-whoami-ajones.png) |
+![IT OU: Alex Jones + SG-IT](screenshots/Screenshot%202026-10-14%20223712.png)
 
+![SG-Sales members](screenshots/Screenshot%202026-10-14%20224017.png)
+
+![SG-IT members](screenshots/Screenshot%202026-10-14%20223911.png)
+
+![Jane's Account tab (jsmith12)](screenshots/Screenshot%202026-10-14%20222544.png)
+
+![whoami as jsmith12](screenshots/Screenshot%202026-10-14%20223639.png)
+
+![whoami as ajones](screenshots/REPLACE-WITH-AJONES-FILENAME.png)
 ## Next Steps
 
 - [ ] Add Group Policy (drive mapping, password policy)
